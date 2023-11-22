@@ -23,9 +23,6 @@ Certifique-se de ter um navegador da web compatível com HTML5 para executar est
 - `style.css`: Arquivo CSS com estilos para a interface.
 - `script.js`: Arquivo JavaScript com a lógica para calcular o somatório.
 
-## Contribuindo
-
-Sinta-se à vontade para contribuir com melhorias, correções de bugs ou novas funcionalidades. Basta abrir uma issue para discutir suas ideias ou enviar um pull request.
 
 ## Licença
 
