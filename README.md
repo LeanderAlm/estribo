@@ -1,5 +1,5 @@
-# estribo
-Resolução o teste proposto pela empresa Estribo
+# Estribo
+Resolução do teste proposto pela empresa Estribo
 
 # Calculadora de Somatório de Números Divisíveis por 3 ou 5
 
